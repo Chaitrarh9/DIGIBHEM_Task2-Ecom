@@ -1,1 +1,3 @@
 # DigitalBhem_Task2-Ecom
+# Unibuy
+Welcome to UNIBUY, your go-to destination for the latest fashion trends! This e-commerce website is built using cutting-edge technologies to provide a seamless shopping experience. Leveraging the power of Node.js, React, CSS, JavaScript, and HTML, UNIBUY ensures a dynamic and responsive platform for users. From trendy clothing to classic styles, explore our diverse collection with ease. The intuitive user interface, powered by React, enhances navigation, while Node.js ensures efficient server-side functionality. CSS and HTML are utilized to create visually appealing and responsive designs. Get ready to embark on a stylish journey with UNIBUY – Where Fashion Meets Technology!
